@@ -1,6 +1,7 @@
 import 'package:chatbot/home_page.dart';
 import 'package:chatbot/pallete.dart';
 import 'package:flutter/material.dart';
+import 'secrets.dart';
 
 void main() {
   runApp(const MyApp());
